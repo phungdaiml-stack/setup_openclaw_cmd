@@ -16,7 +16,7 @@ echo   "profiles": {
 echo     "gg": {
 echo       "type": "api_key",
 echo       "provider": "google",
-echo       "key": "Nhap_API_Gemini"
+echo       "key": "AIzaSyAbtN2oQc5RAH1hL9Sy_tShOv4--BfGS6Q"
 echo     }
 echo   }
 echo }
